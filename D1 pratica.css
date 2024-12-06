@@ -1,0 +1,75 @@
+body{
+    text-align: center;
+}
+
+#Logo{
+    width: 150px;
+}
+
+.riga2{
+    font-size: 10px;
+    background-color: papayawhip;
+    padding: 10px;
+    color: rgb(5, 88, 58);
+    border-style: inset;
+    border-top-width: thin;
+    border-top-color: rgb(245, 183, 27);
+    border-left-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+}
+
+#focaccia{
+    width: 700px;
+    border-radius: 8px;
+
+}
+
+#nota-img{
+    color: gray;
+}
+
+#nota-link{
+    color: red;
+    border-left-width: thin;
+    border-left-color: rgb(245, 183, 27);
+    border-top-width: 0px;
+    border-right-width: 0px;
+    border-bottom-width: 0px;
+    border-left-style: inset;
+    padding-left: 10px;
+    text-align: left;
+    margin-left: 400px;
+    margin-bottom: 60px;
+
+}
+
+.link{
+    color: blue;
+}
+
+
+#Ingredients{
+    border-style: inset;
+    border-bottom-width: thin;
+    border-bottom-color: aquamarine;
+    border-left-width: 0px;
+    border-bottom-width: 1px;
+    border-top-width: 0px;
+    border-right-width: 0px;
+    padding-bottom: 20px;
+    margin-top: 20px;
+    margin-right: 400px;
+}
+
+#intro{
+    text-align: left;
+    margin-left: 400px;
+}
+
+#ricetta{
+    text-align: left;
+    margin-left: 400px;
+}
+
+
