@@ -1,0 +1,138 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #80808036;
+}
+
+header{
+    background-color: rgb(47 59 126);
+}
+
+header img{
+    width: 150px;
+    margin: 5px 25px;
+}
+
+header nav a{
+    color: white;
+    text-decoration: none;
+    padding: 0px 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header nav{
+    background-color: #404d78;
+    padding: 5px 0;
+    padding-left: 20px;
+}
+
+#Gift-Cards{
+    text-align: center;
+    margin: 35px 25px;
+    padding: 7px 0;
+    background-color: rgb(250, 94, 37);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+
+#Gift-Guide{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(/Secondo-esercizio/assets/bg-image.png);
+    margin: 0 25px;
+    object-fit: contain;
+    color: white;
+    height: 200px;
+    text-align: center;
+}
+
+#Holiday{
+    padding-top: 75px;
+    font-weight: bolder;
+}
+
+#Go-gifter{
+    padding-top: 25px;
+}
+
+#container{
+    margin: 20px 25px;
+    background-color: white;
+    padding-left: 15px;
+    padding-top: 15px;
+    object-position: center;
+    padding-bottom: 15px;
+}
+
+.img-description{
+    display: inline;
+    padding-right: 5px;
+    margin-top: 10px;
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Shop{
+    display: inline;
+    text-decoration: none;
+    color: rgb(30, 30, 248);
+    padding-left: 5px;
+    font-weight: bolder;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.img{
+    display: inline;
+    width: 22%;
+    height: 350px;
+    margin-top: 10px;
+    margin-right: 30px;
+    border-radius: 8px;
+    object-fit: cover;
+    filter: drop-shadow(2px 3px 4px);
+}
+
+#right-img{
+    margin-right: 0;
+}
+
+#Headset{
+    max-width: 100%;
+    height: auto;
+    padding: 0 25px;
+    object-fit: cover;
+}
+
+#Marshall-case{
+    max-width: 100%;
+    height: auto;
+    padding: 0 25px;
+    object-fit: cover;
+    margin-top: 20px;
+}
+
+#Back-to-top{
+    background-color: #404d78;
+    text-align: center;
+    margin-top: 25px;
+    padding: 15px 0;
+}
+
+#Top{
+    color: rgb(206, 206, 206);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Footer{
+    background-color: rgb(47 59 126);
+    text-align: center;
+    padding: 50px 0;
+}
+
+#Amazon-Logo{
+    width: 150px;
+}
