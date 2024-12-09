@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: rgb(179, 179, 179);
+}
+
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 14%;
+    background-color: white;
+    padding: 15px 65px;
+}
+
+#img{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: white;
+    margin: 0 14%;
+}
+
+.note{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 25px;
+    padding: 20px 65px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+}
+
+#link{
+    margin: 0 14%;
+    padding: 15px 65px;
+    background-color: white;
+}
+
+#link-style{
+    text-decoration: none;
+    color: rgb(4, 211, 211);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
